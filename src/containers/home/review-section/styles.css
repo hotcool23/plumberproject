@@ -1,0 +1,21 @@
+
+.review-section__button-block {
+  text-align: center;
+}
+
+.review-section__buttons-wrapper {
+  display: inline-block;
+}
+
+.review-section__balloon {
+  color: #00B0F0;
+  font-size: 12px;
+  border-radius: 50% 50%;
+  background-color: grey;
+  padding: 40px 30px;
+  display: inline-block;
+}
+
+.review-section__balloon span {
+  color: #CC00CC;
+}

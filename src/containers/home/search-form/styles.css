@@ -1,0 +1,28 @@
+.search-form {
+  background-image: url('../../../assets/landing-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+  height: 100%;
+}
+
+.search-wrapper {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+h2 {
+  color: #CC00CC;
+  font-size: 56px;
+  font-family: 'Arial Rounded MT', Arial, sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  color: #00B0F0;
+  font-size: 32px;
+  font-family: 'Arial Rounded MT', Arial, sans-serif;
+  font-weight: bold;
+}
