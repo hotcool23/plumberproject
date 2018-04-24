@@ -12,3 +12,14 @@ docs/app/menuInfo.json
 docs/build/
 dll/
 node_modules/
+
+
+
+
+
+
+
+
+
+# to store colors
+colors.css

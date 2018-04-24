@@ -72,7 +72,24 @@ class SearchForm extends React.Component {
                 </Grid.Column>
               </Grid>
             </Form>
+            <button className="search-wrapper--btn-switch">
+              Or search a member by name &gt;
+            </button>
           </Container>
+        </div>
+        <div className="review-bar">
+          <Container className="review-bar--content">
+            <p className="review-bar--member-info">
+              Brad - Element Plumbing & Gas - Scarborough (Member since 2017)
+            </p>
+            <div className="review-bar--caption">
+              <p>
+                Every review published helps a charity of your choice - Thank you!
+              </p>
+            </div>
+          </Container>
+          <div className="review-bar--bg-bar">
+          </div>
         </div>
       </div>
     )
